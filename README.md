@@ -7,11 +7,7 @@
 <p align="center">
   <a href="https://www.digidai.com" target="_blank">Website</a> ·
   <a href="https://genedai.me" target="_blank">Blog</a> ·
-  <a href="https://www.linkedin.com/in/genedai" target="_blank">LinkedIn</a> ·
-  <a href="https://x.com/genedai" target="_blank">X</a>
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/Digidai?tab=followers">
