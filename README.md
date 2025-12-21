@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gene Dai (Digidai)</h1>
+<h1 align="center">Hi, I'm Gene Dai</h1>
 
 <p align="center">
   Co-Founder @ <a href="https://www.openjobs-ai.com" target="_blank">OpenJobs AI</a> · AI Recruitment & Product Leader
@@ -13,7 +13,7 @@
 
 ---
 
-## 🏅 社交
+## 🏅 Social
 
 <p align="center">
   <!-- GitHub Followers -->
@@ -34,20 +34,38 @@
 
 ## 👨‍💻 About Me
 
-- Co-Founder @ **OpenJobs AI**，做一款 AI Recruiter Agent，帮求职者更快找到匹配职位。[web:27][web:30]  
-- 专注 **AI 招聘、平台产品、用户增长与体验设计**。[web:35][web:36][web:38]  
+- Co-Founder @ **OpenJobs AI** – Building an AI Recruiter Agent to help job seekers find matching positions faster
+- Focused on **AI recruitment, platform products, user growth & experience design**
 
 ---
 
 ## 🚀 Featured Projects
 
+- 🤖 **OpenJobs AI** – Revolutionary AI-powered recruitment platform  
+  👉 Website: https://www.openjobs-ai.com
 
-- 🧠 **AI & Tech Blog** – 深度分析 LinkedIn、Anthropic、AI 招聘等话题  
+- 🧠 **AI & Tech Blog** – In-depth analysis on LinkedIn, Anthropic, AI recruitment trends  
   👉 Blog: https://genedai.me 
 
-## 📫 Contact
+---
 
-- Personal site: https://www.digidai.com  
-- GitHub: https://github.com/Digidai  
-- X (Twitter): https://x.com/RealOpenJobsAI  
-- LinkedIn: https://www.linkedin.com/in/genedai  
+## 🎯 What I'm Working On
+
+- Building the future of AI-powered recruitment
+- Writing about AI, product strategy, and tech trends
+- Connecting talented individuals with their dream opportunities
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Personal Website: https://www.digidai.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/genedai  
+- 🐦 X (Twitter): https://x.com/genedai  
+- 📧 Always open to interesting conversations about AI and product innovation
+
+---
+
+<p align="center">
+  <i>💡 "Building the bridge between talent and opportunity through AI"</i>
+</p>
