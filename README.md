@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.digidai.com" target="_blank">Website</a> ·
-  <a href="https://genedai.me" target="_blank">Blog</a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Digidai?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/Digidai?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars" />
   </a>
