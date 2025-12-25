@@ -17,8 +17,6 @@ Focused on AI recruitment, platform products, and user growth.
 
 🧠 **Blog**: https://genedai.me – Analysis on AI, LinkedIn, recruitment trends
 
----
-
 | Project | Description |
 |---------|-------------|
 | [**openjobs.genedai.me**](https://openjobs.genedai.me) | 📋 Free open-source job aggregator · 988+ jobs from 774+ companies · Auto-updated every 6h |
