@@ -29,7 +29,5 @@ Focused on AI recruitment, platform products, and user growth.
 <p align="center">
   <i>💡 "Building the bridge between talent and opportunity through AI"</i>
 </p>
-
-https://github.com/Digidai/website2markdown
   
 
