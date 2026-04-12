@@ -27,7 +27,7 @@ Currently focused on two layers: **AI agent infrastructure** (email, content ext
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**product-manager-skills**](https://github.com/Digidai/product-manager-skills) ⭐ 52 | PM operator for Claude Code / Cursor / Windsurf — SaaS diagnostics, PRD critique, 6-phase sprint workflow, 12 templates | Shell · Go Template |
+| [**product-manager-skills**](https://github.com/Digidai/product-manager-skills) | PM operator for Claude Code / Cursor / Windsurf — SaaS diagnostics, PRD critique, 6-phase sprint workflow, 12 templates | Shell · Go Template |
 | [**website2markdown**](https://github.com/Digidai/website2markdown) | URL → clean Markdown with 5-layer fallback pipeline · 14 site adapters (WeChat, Feishu, Zhihu, Notion, Twitter, Reddit) | TypeScript · Cloudflare Workers |
 | [**mails**](https://github.com/Digidai/mails) | Email infrastructure for AI agents — send, receive, search, extract verification codes · SDK + CLI + MCP Server | TypeScript · Cloudflare Workers · D1 · R2 |
 | [**mails-gtm-agent**](https://github.com/Digidai/mails-gtm-agent) | AI SDR demo — autonomous cold email outreach with guardrails (20 emails/day, 3-day cooldown per contact) | TypeScript |
