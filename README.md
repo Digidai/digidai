@@ -21,6 +21,8 @@ I build open-source tools and infrastructure at the intersection of **AI agents*
 
 Currently focused on two layers: **AI agent infrastructure** (email, content extraction, PM workflows) and **recruitment products** (job aggregation, resume building, HR AI discovery).
 
+Architecture principle: **serverless-first, zero-infra-cost where possible, AI-agent-native from day one.**
+
 ## Featured Projects
 
 ### AI Agent Infrastructure
@@ -41,18 +43,6 @@ Currently focused on two layers: **AI agent infrastructure** (email, content ext
 | [**genedai.cv**](https://genedai.cv) | AI resume builder — 28+ templates, Google Gemini integration, real-time preview, PDF export | React 19 · TypeScript · Tailwind 4 |
 | [**recruit.genedai.me**](https://recruit.genedai.me) | Interactive OSINT-style recruitment resource navigator with D3.js visualization · bilingual (EN/CN) | 10 categories · 58 subcategories |
 | [**genedai.space**](https://genedai.space) | GTM Cookbook — Go-To-Market 完整实战手册 | 13h 系统学习 · 249 可视化图表 |
-
-## How I Build
-
-```
-Frontend    React · TypeScript · Tailwind CSS · Astro · Vite
-Backend     Cloudflare Workers · D1 (SQLite) · R2 · Resend
-AI          Google Gemini · Claude Code · MCP integrations
-Deploy      Cloudflare Pages · GitHub Pages · GitHub Actions
-License     MIT / Apache 2.0 / CC BY-NC-SA 4.0
-```
-
-Architecture principle: **serverless-first, zero-infra-cost where possible, AI-agent-native from day one.**
 
 ## Writing
 
