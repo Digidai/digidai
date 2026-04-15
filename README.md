@@ -53,7 +53,8 @@ Architecture principle: **serverless-first, zero-infra-cost where possible, AI-a
 <p>
   <a href="https://x.com/genedai">X / Twitter</a> · 
   <a href="https://genedai.me">Blog</a> · 
-  <a href="https://www.openjobs-ai.com">OpenJobs AI</a>
+  <a href="https://www.openjobs-ai.com">OpenJobs AI</a> · 
+  <a href="https://genedai.md">genedai.md</a>
 </p>
 
 ---
