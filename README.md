@@ -1,64 +1,47 @@
-<h1 align="center">Gene Dai</h1>
-<p align="center">
-  Co-Founder @ <a href="https://www.openjobs-ai.com" target="_blank">OpenJobs AI</a> · AI Recruitment Infrastructure · Product Builder
-</p>
+# Gene Dai
 
-<p align="center">
-  <a href="https://github.com/Digidai?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Digidai?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars" />
-  </a>
-  <a href="https://x.com/genedai">
-    <img src="https://img.shields.io/twitter/follow/genedai?style=social" alt="Follow on X" />
-  </a>
-  <a href="https://genedai.me">
-    <img src="https://img.shields.io/badge/Blog-272%2B%20articles-blue" alt="Blog" />
-  </a>
-</p>
+**Co-Founder @ [OpenJobs AI](https://www.openjobs-ai.com)** · Building agent-native recruiting infrastructure
 
----
+Previously product leadership at Boss Zhipin, Liepin, and Zuoyebang.
 
-I build open-source tools and infrastructure at the intersection of **AI agents** and **recruitment**. Everything I ship follows the same thesis: the hiring process is broken by information asymmetry — AI can fix it by making talent discovery, matching, and outreach radically cheaper and faster.
+[![Blog](https://img.shields.io/badge/Blog-272%2B%20articles-blue)](https://genedai.me)
+[![Follow on X](https://img.shields.io/twitter/follow/genedai?style=social)](https://x.com/genedai)
 
-Currently focused on two layers: **AI agent infrastructure** (email, content extraction, PM workflows) and **recruitment products** (job aggregation, resume building, HR AI discovery).
+## Thesis
 
-Architecture principle: **serverless-first, zero-infra-cost where possible, AI-agent-native from day one.**
+Recruiting looks like a sourcing problem. It is actually a signal-detection problem.
+The cost is information asymmetry between candidates, recruiters, and hiring managers.
+AI agents collapse that cost by orders of magnitude. That is what I build.
 
-## Featured Projects
+**Architecture principle:** serverless-first, zero-infra-cost where possible, AI-agent-native from day one.
+
+## Featured Work
 
 ### AI Agent Infrastructure
 
 | Project | What it does | Stack |
-|---------|-------------|-------|
-| [**product-manager-skills**](https://github.com/Digidai/product-manager-skills) | PM operator for Claude Code / Cursor / Windsurf — SaaS diagnostics, PRD critique, 6-phase sprint workflow, 12 templates | Shell · Go Template |
-| [**website2markdown**](https://github.com/Digidai/website2markdown) | URL → clean Markdown with 5-layer fallback pipeline · 14 site adapters (WeChat, Feishu, Zhihu, Notion, Twitter, Reddit) | TypeScript · Cloudflare Workers |
-| [**mails**](https://github.com/Digidai/mails) | Email infrastructure for AI agents — send, receive, search, extract verification codes · SDK + CLI + MCP Server | TypeScript · Cloudflare Workers · D1 · R2 |
-| [**mails-gtm-agent**](https://github.com/Digidai/mails-gtm-agent) | AI SDR demo — autonomous cold email outreach with guardrails (20 emails/day, 3-day cooldown per contact) | TypeScript |
+| --- | --- | --- |
+| [**product-manager-skills**](https://github.com/Digidai/product-manager-skills) | PM operator for Claude Code, Cursor, Windsurf. SaaS diagnostics, PRD critique, 6-phase sprint workflow, 12 templates | Shell |
+| [**website2markdown**](https://github.com/Digidai/website2markdown) | URL → clean Markdown. 5-layer fallback pipeline, 14 site adapters (WeChat, Feishu, Zhihu, Notion, X, Reddit) | TypeScript · Cloudflare Workers |
+| [**mails**](https://github.com/Digidai/mails) | Email infrastructure for AI agents. Send, receive, search, extract verification codes. SDK + CLI + MCP Server | TypeScript · Workers · D1 · R2 |
+| [**mails-gtm-agent**](https://github.com/Digidai/mails-gtm-agent) | AI SDR demo. Autonomous cold email outreach with guardrails (20 emails/day, 3-day cooldown per contact) | TypeScript |
 
-### Recruitment Products
+### Live Recruitment Products
 
-| Project | What it does | Scale |
-|---------|-------------|-------|
-| [**openjobs.genedai.me**](https://openjobs.genedai.me) | Free open-source job aggregator · no sign-up, no ads · auto-refreshed every 6h | 574+ jobs · 422+ companies |
-| [**hireai.genedai.me**](https://hireai.genedai.me) | HR AI products directory spanning 30 years of evolution (1990s ATS → 2024+ Agentic AI) | 149+ products · 1,900+ curated resources |
-| [**genedai.cv**](https://genedai.cv) | AI resume builder — 28+ templates, Google Gemini integration, real-time preview, PDF export | React 19 · TypeScript · Tailwind 4 |
-| [**recruit.genedai.me**](https://recruit.genedai.me) | Interactive OSINT-style recruitment resource navigator with D3.js visualization · bilingual (EN/CN) | 10 categories · 58 subcategories |
-| [**genedai.space**](https://genedai.space) | GTM Cookbook — Go-To-Market 完整实战手册 | 13h 系统学习 · 249 可视化图表 |
+| Product | What it does | Scale |
+| --- | --- | --- |
+| [**openjobs.genedai.me**](https://openjobs.genedai.me) | Open-source job aggregator. No sign-up, no ads, auto-refreshed every 6h | 574+ jobs · 422+ companies |
+| [**hireai.genedai.me**](https://hireai.genedai.me) | HR AI products directory. 30 years of evolution, from 1990s ATS to 2024+ Agentic AI | 149+ products · 1,900+ resources |
+| [**genedai.cv**](https://genedai.cv) | AI resume builder. 28+ templates, Google Gemini integration, real-time preview, PDF export | React 19 · TypeScript · Tailwind 4 |
+| [**recruit.genedai.me**](https://recruit.genedai.me) | OSINT-style recruitment resource navigator with D3.js visualization. Bilingual EN/CN | 10 categories · 58 subcategories |
+| [**genedai.space**](https://genedai.space) | GTM Cookbook. End-to-end go-to-market playbook with structured learning paths | 13h content · 249 visualizations |
 
 ## Writing
 
-[**genedai.me**](https://genedai.me) — 272+ articles covering AI recruitment, enterprise platform consolidation (ATS, HCM, ServiceNow, Workday), recruiter role evolution, and the trust/security layer of AI hiring.
-
-## Get in Touch
-
-<p>
-  <a href="https://x.com/genedai">X / Twitter</a> · 
-  <a href="https://genedai.me">Blog</a> · 
-  <a href="https://www.openjobs-ai.com">OpenJobs AI</a> · 
-  <a href="https://genedai.md">genedai.md</a>
-</p>
+[**genedai.me**](https://genedai.me): 272+ articles on enterprise hiring stack consolidation (ATS, HCM, ServiceNow, Workday), the recruiter role evolution in an agent world, and the trust layer of AI hiring.
 
 ---
 
-<p align="center">
-  <i>"The hiring process is an information asymmetry problem. AI is the solution."</i>
-</p>
+[X](https://x.com/genedai) · [Blog](https://genedai.me) · [Substack](https://genedai.substack.com) · [OpenJobs AI](https://www.openjobs-ai.com)
+
+> *Recruiting is an information asymmetry problem. AI is the solution.*
