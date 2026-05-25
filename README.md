@@ -26,7 +26,7 @@ AI agents collapse that cost by orders of magnitude. That is what I build.
 | [**mails**](https://github.com/Digidai/mails) | Email infrastructure for AI agents. Send, receive, search, extract verification codes. SDK + CLI + MCP Server | TypeScript · Workers · D1 · R2 |
 | [**mails-gtm-agent**](https://github.com/Digidai/mails-gtm-agent) | AI SDR demo. Autonomous cold email outreach with guardrails (20 emails/day, 3-day cooldown per contact) | TypeScript |
 
-### Live Recruitment Products
+### Live Products
 
 | Product | What it does | Scale |
 | --- | --- | --- |
@@ -35,6 +35,8 @@ AI agents collapse that cost by orders of magnitude. That is what I build.
 | [**genedai.cv**](https://genedai.cv) | AI resume builder. 28+ templates, Google Gemini integration, real-time preview, PDF export | React 19 · TypeScript · Tailwind 4 |
 | [**recruit.genedai.me**](https://recruit.genedai.me) | OSINT-style recruitment resource navigator with D3.js visualization. Bilingual EN/CN | 10 categories · 58 subcategories |
 | [**genedai.space**](https://genedai.space) | GTM Cookbook. End-to-end go-to-market playbook with structured learning paths | 13h content · 249 visualizations |
+| [**raltic.com**](https://raltic.com/) | Team chat where AI agents are first-class teammates. Cloud Agent in seconds, or bring your own (Claude Code, Codex, OpenClaw, Hermes) | Private beta · Free |
+| [**venturedex.co**](https://venturedex.co/) | Curated gallery of startups worth watching. Hand-picked with editorial commentary | Editorial directory |
 
 ## Writing
 
