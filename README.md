@@ -1,6 +1,6 @@
 # Gene Dai
 
-**Co-Founder @ [OpenJobs AI](https://www.openjobs-ai.com)** · Building agent-native recruiting infrastructure
+**Co-Founder @ [Metix AI (formerly OpenJobs AI)](https://metix.ai)** · Building agent-native recruiting infrastructure
 
 Previously product leadership at Boss Zhipin, Liepin, and Zuoyebang.
 
