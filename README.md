@@ -44,6 +44,6 @@ AI agents collapse that cost by orders of magnitude. That is what I build.
 
 ---
 
-[X](https://x.com/genedai) · [Blog](https://genedai.me) · [Substack](https://genedai.substack.com) · [Metix AI (formerly OpenJobs AI)](https://metix.ai) [Metix-Reports](https://github.com/Digidai/metix-reports)))
+[X](https://x.com/genedai) · [Blog](https://genedai.me) · [Substack](https://genedai.substack.com) · [Metix AI (formerly OpenJobs AI)](https://metix.ai) · [Metix-Reports](https://github.com/Digidai/metix-reports)
 
 > *Recruiting is an information asymmetry problem. AI is the solution.*
